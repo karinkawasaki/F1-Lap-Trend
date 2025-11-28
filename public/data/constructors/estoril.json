@@ -1,0 +1,212 @@
+[
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Benetton",
+    "lapTime": 82.0
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 80.608
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Footwork",
+    "lapTime": 82.132
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Jordan",
+    "lapTime": 81.79599999999999
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Larrousse",
+    "lapTime": 84.19200000000001
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Ligier",
+    "lapTime": 82.672
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 81.251
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Minardi",
+    "lapTime": 83.243
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 81.92099999999999
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Simtek",
+    "lapTime": 84.514
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Team Lotus",
+    "lapTime": 83.408
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Tyrrell",
+    "lapTime": 81.59
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 80.76599999999999
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Benetton",
+    "lapTime": 81.301
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 81.97
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Footwork",
+    "lapTime": 84.883
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Forti",
+    "lapTime": 87.292
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Jordan",
+    "lapTime": 82.538
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Ligier",
+    "lapTime": 82.588
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 82.914
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Minardi",
+    "lapTime": 84.657
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Pacific",
+    "lapTime": 86.172
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 82.226
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Tyrrell",
+    "lapTime": 83.936
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 80.537
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Benetton",
+    "lapTime": 84.331
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 84.059
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Footwork",
+    "lapTime": 85.913
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Jordan",
+    "lapTime": 84.954
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Ligier",
+    "lapTime": 85.008
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 84.747
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Minardi",
+    "lapTime": 87.754
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 84.869
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Tyrrell",
+    "lapTime": 86.199
+  },
+  {
+    "year": 1996,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 82.873
+  }
+]

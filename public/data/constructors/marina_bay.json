@@ -1,0 +1,1904 @@
+[
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "BMW Sauber",
+    "lapTime": 104.519
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 104.01400000000001
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 107.94
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Honda",
+    "lapTime": 105.13300000000001
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 104.207
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 105.212
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 104.971
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 104.261
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Toyota",
+    "lapTime": 104.441
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 104.429
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "BMW Sauber",
+    "lapTime": 106.899
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 105.599
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 109.101
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Honda",
+    "lapTime": 108.128
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 106.072
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 107.562
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 105.768
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 107.271
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Toyota",
+    "lapTime": 106.972
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 106.454
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "BMW Sauber",
+    "lapTime": 106.813
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Brawn",
+    "lapTime": 106.787
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 107.17699999999999
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 108.231
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 106.657
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 106.328
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 106.767
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 107.369
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Toyota",
+    "lapTime": 106.707
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 106.197
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "BMW Sauber",
+    "lapTime": 108.847
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Brawn",
+    "lapTime": 108.369
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 108.391
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 109.852
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 108.345
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 108.398
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 108.24
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 110.636
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Toyota",
+    "lapTime": 108.396
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 108.352
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 105.39
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 108.49600000000001
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "HRT",
+    "lapTime": 112.946
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Lotus",
+    "lapTime": 110.91499999999999
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 105.571
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 106.443
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 105.457
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 106.593
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 107.559
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 107.666
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Virgin",
+    "lapTime": 110.271
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 106.23599999999999
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 107.976
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 112.473
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "HRT",
+    "lapTime": 117.766
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Lotus",
+    "lapTime": 113.051
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 109.711
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 109.68
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 108.141
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 109.255
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 112.475
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 109.71
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Virgin",
+    "lapTime": 112.513
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 110.334
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 104.874
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 107.093
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "HRT",
+    "lapTime": 112.404
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Lotus",
+    "lapTime": 110.94800000000001
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 104.804
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 106.013
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 104.381
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 108.662
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 107.616
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 108.634
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Virgin",
+    "lapTime": 112.154
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 108.061
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 110.891
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 114.239
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "HRT",
+    "lapTime": 118.283
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Lotus",
+    "lapTime": 114.063
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 108.454
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 113.096
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 108.688
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 113.774
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 111.329
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 112.197
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Virgin",
+    "lapTime": 118.73
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 113.198
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Caterham",
+    "lapTime": 110.846
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 107.21600000000001
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 107.241
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "HRT",
+    "lapTime": 112.372
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Lotus F1",
+    "lapTime": 107.529
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Marussia",
+    "lapTime": 111.37
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 106.362
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 107.82300000000001
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 106.791
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 108.505
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 108.774
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 106.804
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Caterham",
+    "lapTime": 115.106
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 112.709
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 111.033
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "HRT",
+    "lapTime": 117.671
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Lotus F1",
+    "lapTime": 113.785
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Marussia",
+    "lapTime": 116.057
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 112.625
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 113.897
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 112.134
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 111.69
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 113.51
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 113.61
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Caterham",
+    "lapTime": 108.11099999999999
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 103.89
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 105.185
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Lotus F1",
+    "lapTime": 103.05799999999999
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Marussia",
+    "lapTime": 108.83
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 104.282
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 102.932
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 102.84100000000001
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 104.245
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 104.407
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 105.388
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Caterham",
+    "lapTime": 110.99
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 110.509
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 109.656
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Lotus F1",
+    "lapTime": 111.097
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Marussia",
+    "lapTime": 112.898
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 111.74
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 109.916
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 108.574
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 112.007
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 110.328
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 110.708
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Caterham",
+    "lapTime": 110.405
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 105.907
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 107.30799999999999
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Lotus F1",
+    "lapTime": 107.812
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Marussia",
+    "lapTime": 109.44
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 106.25
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 105.681
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 105.854
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 107.333
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 106.926
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 106.0
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Caterham",
+    "lapTime": 115.416
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 112.115
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 112.007
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Lotus F1",
+    "lapTime": 113.213
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Marussia",
+    "lapTime": 113.538
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 111.639
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 110.417
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 112.519
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 113.948
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 111.761
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 112.515
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 103.88499999999999
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 106.305
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Lotus F1",
+    "lapTime": 105.805
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Manor Marussia",
+    "lapTime": 111.021
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 105.89099999999999
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 105.3
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 104.428
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 106.965
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 105.63499999999999
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 105.676
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 110.069
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 111.97
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Lotus F1",
+    "lapTime": 110.175
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Manor Marussia",
+    "lapTime": 115.312
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 111.167
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 110.934
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 110.041
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 111.594
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 110.298
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 111.342
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 103.53999999999999
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 104.479
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 105.465
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Manor Marussia",
+    "lapTime": 107.667
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 104.553
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 102.584
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 103.11500000000001
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 106.825
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 106.42699999999999
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 104.197
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 104.74000000000001
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 107.345
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 111.517
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 111.075
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Manor Marussia",
+    "lapTime": 111.748
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 111.249
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 107.752
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 107.187
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 110.858
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 110.963
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 110.532
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 111.368
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 99.491
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 102.24600000000001
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 103.62700000000001
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 101.179
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 100.126
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 99.814
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 101.013
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 105.059
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 101.826
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 104.01400000000001
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 106.731
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 107.585
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 106.722
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 105.008
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 105.301
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 106.722
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 109.061
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 106.537
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 107.055
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 96.628
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Force India",
+    "lapTime": 97.985
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 98.32
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 98.64099999999999
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 96.015
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 96.334
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 98.45
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 98.747
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 99.614
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 101.263
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 104.669
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Force India",
+    "lapTime": 105.389
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 101.905
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 103.164
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 102.913
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 103.12
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 105.211
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 105.169
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 104.889
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 105.902
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 98.697
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 96.217
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 99.65
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 97.572
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 96.408
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Racing Point",
+    "lapTime": 98.52000000000001
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 96.813
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 98.26400000000001
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Toro Rosso",
+    "lapTime": 98.699
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 100.86699999999999
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 105.63
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 104.723
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 102.301
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 105.716
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 103.534
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Racing Point",
+    "lapTime": 104.896
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 105.176
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 105.765
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Toro Rosso",
+    "lapTime": 104.371
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 106.793
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 115.375
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 111.211
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 109.96600000000001
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 114.211
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 109.412
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 111.57300000000001
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 110.584
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 109.46600000000001
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 109.434
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 116.985
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 111.864
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 110.569
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 120.463
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 110.283
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 108.414
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 110.29
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 109.212
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 106.458
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 108.165
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 122.121
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 92.809
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 91.991
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 91.673
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 91.615
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 90.98400000000001
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 91.575
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 91.27
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 91.056
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 92.09899999999999
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 92.668
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 98.075
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 99.028
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 98.277
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 96.456
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 97.666
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 98.107
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 98.046
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 95.867
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 96.575
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 97.342
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 90.769
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 90.214
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 89.747
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 90.115
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 89.525
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 89.84100000000001
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "RB F1 Team",
+    "lapTime": 90.289
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 89.68
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 91.572
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 90.474
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 96.927
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 97.741
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 95.371
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 94.754
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 94.925
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 97.047
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "RB F1 Team",
+    "lapTime": 94.486
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 95.967
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 97.461
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 96.888
+  }
+]

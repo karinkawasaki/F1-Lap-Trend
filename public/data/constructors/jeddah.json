@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 88.616
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 88.125
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 88.574
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 89.19800000000001
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 88.054
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 89.464
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 88.18
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 87.511
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 87.65299999999999
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 88.926
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 92.778
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 92.297
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 91.633
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 92.804
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 91.601
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 96.043
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 91.914
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 90.734
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 91.488
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 92.751
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 89.18299999999999
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 89.254
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 89.068
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 90.256
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 88.225
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 89.54599999999999
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 89.651
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 89.104
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 88.2
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 90.492
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 93.924
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 93.468
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 93.103
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 93.651
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 91.634
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 92.779
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 92.753
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 92.821
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 91.772
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 94.368
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 89.461
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 89.939
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 89.078
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 88.73
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 88.42
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 89.451
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 89.243
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 88.857
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 88.265
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 89.994
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 93.894
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 93.609
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 93.222
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 92.24
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 92.822
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 93.374
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 94.122
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 92.433
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 91.906
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 94.469
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 89.475
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 87.846
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 87.791
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 89.02
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 88.089
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 88.316
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "RB F1 Team",
+    "lapTime": 88.547
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 87.47200000000001
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Sauber",
+    "lapTime": 89.179
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 88.98
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 93.481
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 92.387
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 91.632
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 92.338
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 91.944
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 91.746
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "RB F1 Team",
+    "lapTime": 93.323
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 91.773
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Sauber",
+    "lapTime": 92.208
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 92.307
+  }
+]

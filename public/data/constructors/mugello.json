@@ -1,0 +1,122 @@
+[
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 76.854
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 76.854
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 76.27
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 77.069
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 76.52199999999999
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 75.144
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Racing Point",
+    "lapTime": 76.271
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 75.471
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 76.243
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 77.232
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 81.164
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 81.458
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 81.202
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 82.263
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 81.198
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 78.833
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Racing Point",
+    "lapTime": 80.632
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 80.039
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 80.426
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 81.645
+  }
+]

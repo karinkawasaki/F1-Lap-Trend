@@ -1,0 +1,5282 @@
+[
+  {
+    "year": 1994,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 85.946
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 84.502
+  },
+  {
+    "year": 1994,
+    "session": "Q",
+    "driverId": "\\N",
+    "lapTime": 83.844
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "driverId": "BAD",
+    "lapTime": 89.559
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 85.919
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 84.462
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 85.026
+  },
+  {
+    "year": 1995,
+    "session": "Q",
+    "driverId": "\\N",
+    "lapTime": 85.353
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 100.405
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 81.242
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 82.301
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 82.471
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 82.992
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "HEI",
+    "lapTime": 83.803
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "MON",
+    "lapTime": 81.014
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 80.963
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 81.466
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 81.944
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "VIL",
+    "lapTime": 82.717
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 82.754
+  },
+  {
+    "year": 2003,
+    "session": "Q",
+    "driverId": "\\N",
+    "lapTime": 81.834
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 80.645
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 80.089
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 80.786
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 81.049
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 82.239
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "HEI",
+    "lapTime": 82.301
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "KLI",
+    "lapTime": 81.989
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 82.287
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "MON",
+    "lapTime": 80.62
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 80.637
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "PIZ",
+    "lapTime": 80.888
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 80.877
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "SAT",
+    "lapTime": 80.715
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 81.027
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 81.602
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "ZON",
+    "lapTime": 81.52
+  },
+  {
+    "year": 2004,
+    "session": "Q",
+    "driverId": "\\N",
+    "lapTime": 81.841
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 82.881
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 81.046
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 82.671
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "COU",
+    "lapTime": 82.889
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "FIS",
+    "lapTime": 82.615
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "HEI",
+    "lapTime": 84.166
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "KLI",
+    "lapTime": 83.432
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 82.941
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "MON",
+    "lapTime": 82.929
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 81.361
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "PIZ",
+    "lapTime": 82.246
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 83.365
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "SAT",
+    "lapTime": 82.66
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 82.855
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 83.09
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "ZON",
+    "lapTime": 83.41
+  },
+  {
+    "year": 2004,
+    "session": "R",
+    "driverId": "\\N",
+    "lapTime": 84.061
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "ALB",
+    "lapTime": 86.964
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.319
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 81.962
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 81.369
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 82.304
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "DOO",
+    "lapTime": 84.904
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 82.068
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "KAR",
+    "lapTime": 85.859
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "KLI",
+    "lapTime": 82.532
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 83.06
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "MON",
+    "lapTime": 81.054
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 81.721
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "PIZ",
+    "lapTime": 83.291
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 80.878
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "SAT",
+    "lapTime": 81.477
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "SCH",
+    "lapTime": 82.266
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "TMO",
+    "lapTime": 84.666
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 81.64
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "VIL",
+    "lapTime": 82.356
+  },
+  {
+    "year": 2005,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 82.56
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "ALB",
+    "lapTime": 84.966
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 82.146
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 83.466
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 83.161
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "COU",
+    "lapTime": 83.867
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "DOO",
+    "lapTime": 85.193
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "FIS",
+    "lapTime": 82.587
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "KAR",
+    "lapTime": 85.146
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "KLI",
+    "lapTime": 83.633
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 83.365
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "MON",
+    "lapTime": 81.828
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 83.584
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "PIZ",
+    "lapTime": 82.87
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 81.504
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "SAT",
+    "lapTime": 83.341
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "SCH",
+    "lapTime": 83.076
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "TMO",
+    "lapTime": 84.81
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 82.831
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "VIL",
+    "lapTime": 83.892
+  },
+  {
+    "year": 2005,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 82.935
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "ALB",
+    "lapTime": 83.116
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.526
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 81.688
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 81.572
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 82.589
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "DLR",
+    "lapTime": 81.878
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 81.722
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "HEI",
+    "lapTime": 81.425
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "KLI",
+    "lapTime": 82.898
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 81.27
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "LIU",
+    "lapTime": 83.043
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 81.225
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 81.353
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 81.349
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 82.203
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "SAT",
+    "lapTime": 84.289
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "SCH",
+    "lapTime": 82.28
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "SPE",
+    "lapTime": 82.943
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "TMO",
+    "lapTime": 83.92
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 81.924
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 83.341
+  },
+  {
+    "year": 2006,
+    "session": "Q",
+    "driverId": "YAM",
+    "lapTime": 86.001
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "ALB",
+    "lapTime": 85.494
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 83.121
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 83.794
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 83.518
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "COU",
+    "lapTime": 84.984
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "DLR",
+    "lapTime": 83.702
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "FIS",
+    "lapTime": 83.617
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "HEI",
+    "lapTime": 83.294
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "KLI",
+    "lapTime": 84.571
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 83.111
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "LIU",
+    "lapTime": 84.764
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 83.003
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 82.575
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 82.559
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 85.362
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "SAT",
+    "lapTime": 85.676
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "SCH",
+    "lapTime": 84.837
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "SPE",
+    "lapTime": 85.094
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "TMO",
+    "lapTime": 84.822
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 83.869
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 84.197
+  },
+  {
+    "year": 2006,
+    "session": "R",
+    "driverId": "YAM",
+    "lapTime": 86.548
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.356
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 83.176
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 83.021
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 84.019
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "DAV",
+    "lapTime": 83.274
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 83.325
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 81.746
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "HEI",
+    "lapTime": 82.466
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "KOV",
+    "lapTime": 83.134
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 82.4
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "LIU",
+    "lapTime": 83.886
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 81.993
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 82.369
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 82.748
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "SAT",
+    "lapTime": 83.749
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "SCH",
+    "lapTime": 83.787
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 84.699
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 83.107
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 83.351
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 83.166
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "WUR",
+    "lapTime": 83.209
+  },
+  {
+    "year": 2007,
+    "session": "Q",
+    "driverId": "YAM",
+    "lapTime": 85.084
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 82.871
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 84.767
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 84.532
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "DAV",
+    "lapTime": 85.116
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "FIS",
+    "lapTime": 84.849
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 82.936
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "HEI",
+    "lapTime": 83.681
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "KOV",
+    "lapTime": 84.226
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 83.908
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "LIU",
+    "lapTime": 85.373
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 83.971
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 83.37
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 84.472
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "SAT",
+    "lapTime": 84.669
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "SCH",
+    "lapTime": 84.951
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 85.377
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 84.622
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 85.313
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 84.824
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "WUR",
+    "lapTime": 85.0
+  },
+  {
+    "year": 2007,
+    "session": "R",
+    "driverId": "YAM",
+    "lapTime": 85.478
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 96.297
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 96.51
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "BOU",
+    "lapTime": 95.543
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 97.006
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "COU",
+    "lapTime": 96.485
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 96.28
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "GLO",
+    "lapTime": 95.737
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 95.394
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "HEI",
+    "lapTime": 95.709
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "KOV",
+    "lapTime": 95.214
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 95.553
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 95.536
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "NAK",
+    "lapTime": 96.653
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "PIQ",
+    "lapTime": 96.63
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 95.965
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 95.485
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 97.417
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 95.906
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 95.464
+  },
+  {
+    "year": 2008,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 96.001
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 89.961
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 93.918
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "BOU",
+    "lapTime": 89.258
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 89.827
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "COU",
+    "lapTime": 92.459
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "FIS",
+    "lapTime": 97.304
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "GLO",
+    "lapTime": 89.948
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 89.721
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "HEI",
+    "lapTime": 89.807
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "KOV",
+    "lapTime": 90.3
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 90.298
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 89.696
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "NAK",
+    "lapTime": 90.215
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "PIQ",
+    "lapTime": 90.918
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 88.047
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 90.019
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 93.458
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 90.853
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 90.51
+  },
+  {
+    "year": 2008,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 89.681
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "ALG",
+    "lapTime": 84.951
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 83.497
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 82.976
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "BUE",
+    "lapTime": 84.22
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 82.955
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "FIS",
+    "lapTime": 83.828
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "GLO",
+    "lapTime": 84.036
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 83.728
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 82.973
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "HEI",
+    "lapTime": 83.584
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "KOV",
+    "lapTime": 83.515
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 83.866
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "LIU",
+    "lapTime": 83.207
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "NAK",
+    "lapTime": 84.074
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 83.349
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 84.121
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 83.07
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 83.611
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 83.545
+  },
+  {
+    "year": 2009,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 83.273
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "ALG",
+    "lapTime": 87.846
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 85.199
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 84.967
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "BUE",
+    "lapTime": 85.564
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 84.935
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "FIS",
+    "lapTime": 85.498
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "GLO",
+    "lapTime": 85.751
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 85.609
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 84.802
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "HEI",
+    "lapTime": 85.488
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "KOV",
+    "lapTime": 85.109
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 87.819
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "LIU",
+    "lapTime": 86.041
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "NAK",
+    "lapTime": 85.976
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 84.761
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 85.901
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 84.739
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 85.7
+  },
+  {
+    "year": 2009,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 85.194
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "ALG",
+    "lapTime": 83.919
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.962
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 83.142
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "BUE",
+    "lapTime": 83.681
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 82.084
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "DIG",
+    "lapTime": 85.974
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "DLR",
+    "lapTime": 84.044
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "GLO",
+    "lapTime": 85.934
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 82.394
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 82.989
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "KOB",
+    "lapTime": 83.659
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "KOV",
+    "lapTime": 85.742
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 82.88
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "LIU",
+    "lapTime": 85.774
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 82.293
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 83.388
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "PET",
+    "lapTime": 83.819
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 83.027
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "SEN",
+    "lapTime": 86.847
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 83.199
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 85.54
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 82.675
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 82.433
+  },
+  {
+    "year": 2010,
+    "session": "Q",
+    "driverId": "YAM",
+    "lapTime": 87.02
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "ALG",
+    "lapTime": 85.472
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 84.139
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 85.239
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "BUE",
+    "lapTime": 85.224
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 84.598
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "DIG",
+    "lapTime": 88.171
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "DLR",
+    "lapTime": 86.325
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "GLO",
+    "lapTime": 87.765
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 84.576
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "KOV",
+    "lapTime": 87.822
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 84.56
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "LIU",
+    "lapTime": 85.102
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 84.575
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 84.947
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "PET",
+    "lapTime": 84.644
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 84.491
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "SEN",
+    "lapTime": 90.88
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 84.937
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 89.017
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 84.493
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 84.278
+  },
+  {
+    "year": 2010,
+    "session": "R",
+    "driverId": "YAM",
+    "lapTime": 88.875
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "ALG",
+    "lapTime": 85.334
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 82.841
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "BAR",
+    "lapTime": 84.648
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "BUE",
+    "lapTime": 84.932
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 82.777
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "DAM",
+    "lapTime": 87.609
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "DIR",
+    "lapTime": 84.163
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "GLO",
+    "lapTime": 87.591
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 82.725
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "KOB",
+    "lapTime": 84.879
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "KOV",
+    "lapTime": 87.184
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "LIU",
+    "lapTime": 88.231
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "MAL",
+    "lapTime": 84.726
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 83.188
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 83.671
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 84.845
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "PET",
+    "lapTime": 83.53
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 88.054
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 83.335
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "SEN",
+    "lapTime": 84.157
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 84.209
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "TRU",
+    "lapTime": 86.647
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 82.275
+  },
+  {
+    "year": 2011,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 82.972
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "ALG",
+    "lapTime": 88.357
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 87.191
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "BAR",
+    "lapTime": 88.377
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "BUE",
+    "lapTime": 88.202
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 86.207
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "DIR",
+    "lapTime": 88.054
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "GLO",
+    "lapTime": 90.783
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 86.187
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "KOB",
+    "lapTime": 90.0
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "KOV",
+    "lapTime": 89.639
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "MAL",
+    "lapTime": 88.934
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 86.924
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 87.402
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 89.403
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 92.013
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "SEN",
+    "lapTime": 86.895
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 91.455
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "TRU",
+    "lapTime": 89.825
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 86.557
+  },
+  {
+    "year": 2011,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 90.994
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 84.175
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 84.133
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "DAM",
+    "lapTime": 85.408
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "DIR",
+    "lapTime": 84.304
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "DLR",
+    "lapTime": 87.629
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "GLO",
+    "lapTime": 87.039
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 84.01
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "KAR",
+    "lapTime": 87.441
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "KOB",
+    "lapTime": 84.683
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "KOV",
+    "lapTime": 86.382
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "MAL",
+    "lapTime": 84.82
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 84.247
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 84.54
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 84.901
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "PET",
+    "lapTime": 86.887
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "PIC",
+    "lapTime": 87.073
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 84.742
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 85.312
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 84.515
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "SEN",
+    "lapTime": 85.042
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 85.441
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 84.687
+  },
+  {
+    "year": 2012,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 84.809
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 88.835
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 88.926
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "DAM",
+    "lapTime": 88.677
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "DIR",
+    "lapTime": 89.068
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "DLR",
+    "lapTime": 90.398
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "GLO",
+    "lapTime": 89.888
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 88.427
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 88.578
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "KAR",
+    "lapTime": 91.086
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "KOB",
+    "lapTime": 89.032
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "KOV",
+    "lapTime": 89.399
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "MAL",
+    "lapTime": 88.053
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 88.914
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 87.718
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 87.562
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "PET",
+    "lapTime": 89.066
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "PIC",
+    "lapTime": 89.753
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 89.109
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 88.621
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 87.239
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "SEN",
+    "lapTime": 88.742
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 91.962
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 88.713
+  },
+  {
+    "year": 2012,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 89.202
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 84.142
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "BIA",
+    "lapTime": 87.085
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 85.291
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 84.515
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "CHI",
+    "lapTime": 87.48
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "DIR",
+    "lapTime": 85.009
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 84.737
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "GUT",
+    "lapTime": 85.226
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 84.589
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 84.065
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "MAL",
+    "lapTime": 84.905
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 84.132
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 84.502
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "PIC",
+    "lapTime": 86.563
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 84.61
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 84.209
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 84.192
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 84.932
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "VDG",
+    "lapTime": 86.406
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 84.575
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 83.755
+  },
+  {
+    "year": 2013,
+    "session": "Q",
+    "driverId": "WEB",
+    "lapTime": 83.968
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 86.797
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "BIA",
+    "lapTime": 89.595
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 87.166
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 87.83
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "CHI",
+    "lapTime": 89.491
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 87.043
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "GUT",
+    "lapTime": 87.092
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 85.849
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 86.716
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "MAL",
+    "lapTime": 86.981
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 87.095
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 87.607
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "PIC",
+    "lapTime": 88.62
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 86.948
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 87.294
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 86.5
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 87.418
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "VDG",
+    "lapTime": 88.663
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 89.71
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 87.19
+  },
+  {
+    "year": 2013,
+    "session": "R",
+    "driverId": "WEB",
+    "lapTime": 86.69
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 85.43
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "BIA",
+    "lapTime": 87.738
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 84.697
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 85.379
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "CHI",
+    "lapTime": 88.247
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "ERI",
+    "lapTime": 88.562
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 87.632
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "GUT",
+    "lapTime": 86.692
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 84.109
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 86.279
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "KOB",
+    "lapTime": 87.671
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "KVY",
+    "lapTime": 86.07
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 85.314
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "MAL",
+    "lapTime": 87.52
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 84.865
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 85.863
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 86.11
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 85.709
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 84.383
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "SUT",
+    "lapTime": 86.588
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 86.14
+  },
+  {
+    "year": 2014,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 85.436
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 89.68
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "BIA",
+    "lapTime": 90.521
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 88.559
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 89.245
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "CHI",
+    "lapTime": 92.569
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "ERI",
+    "lapTime": 90.28
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 90.083
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "GUT",
+    "lapTime": 89.449
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 88.004
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 89.366
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "KOB",
+    "lapTime": 90.758
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "KVY",
+    "lapTime": 88.486
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 89.283
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "MAL",
+    "lapTime": 89.856
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 88.342
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 89.107
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 88.942
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 88.588
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 88.206
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "SUT",
+    "lapTime": 89.375
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 89.121
+  },
+  {
+    "year": 2014,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 89.141
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 86.154
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 84.127
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 86.058
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "ERI",
+    "lapTime": 84.457
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 84.448
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 83.383
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 84.51
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "KVY",
+    "lapTime": 85.742
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "MAL",
+    "lapTime": 84.525
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 83.94
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "MER",
+    "lapTime": 87.912
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "NAS",
+    "lapTime": 84.898
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 84.379
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 83.631
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 85.633
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 83.703
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 85.41
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "STE",
+    "lapTime": 87.731
+  },
+  {
+    "year": 2015,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 83.577
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 89.285
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 87.525
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 89.766
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "ERI",
+    "lapTime": 88.516
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 86.672
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 88.913
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "KVY",
+    "lapTime": 88.231
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 87.874
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "MER",
+    "lapTime": 91.311
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "NAS",
+    "lapTime": 88.653
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 88.14
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 87.584
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 88.065
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 87.067
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 87.51
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "STE",
+    "lapTime": 91.098
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 87.39
+  },
+  {
+    "year": 2015,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 87.376
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 83.273
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 82.388
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "BUT",
+    "lapTime": 83.399
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "ERI",
+    "lapTime": 84.087
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 83.092
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "GUT",
+    "lapTime": 82.856
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 81.135
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 82.836
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "KVY",
+    "lapTime": 83.825
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 84.436
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 82.967
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "NAS",
+    "lapTime": 83.956
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "PAL",
+    "lapTime": 84.23
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 82.814
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 82.065
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 82.389
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "ROS",
+    "lapTime": 81.613
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 83.496
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 82.411
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 81.972
+  },
+  {
+    "year": 2016,
+    "session": "Q",
+    "driverId": "WEH",
+    "lapTime": 83.315
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 85.34
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 86.708
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "BUT",
+    "lapTime": 86.354
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "ERI",
+    "lapTime": 88.552
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 87.227
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "GUT",
+    "lapTime": 87.106
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 86.303
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 86.954
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "KVY",
+    "lapTime": 88.037
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 87.618
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 86.4
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 88.534
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "PAL",
+    "lapTime": 91.361
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 86.92
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 86.016
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 85.919
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "ROS",
+    "lapTime": 86.599
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 86.751
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 86.405
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 86.31
+  },
+  {
+    "year": 2016,
+    "session": "R",
+    "driverId": "WEH",
+    "lapTime": 88.723
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 98.202
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 95.396
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "ERI",
+    "lapTime": 101.732
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 103.355
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 94.66
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 98.059
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "KVY",
+    "lapTime": 98.245
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 100.489
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "MAS",
+    "lapTime": 97.456
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 97.58
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "PAL",
+    "lapTime": 100.646
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 97.582
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 97.031
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 96.841
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 98.526
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 97.002
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "VAN",
+    "lapTime": 97.471
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 96.113
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 96.223
+  },
+  {
+    "year": 2017,
+    "session": "Q",
+    "driverId": "WEH",
+    "lapTime": 101.875
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 85.871
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 83.488
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "ERI",
+    "lapTime": 87.663
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 85.02
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 83.488
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 86.131
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "KVY",
+    "lapTime": 85.894
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 86.037
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "MAS",
+    "lapTime": 85.477
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 85.054
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "PAL",
+    "lapTime": 85.752
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 84.968
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 85.054
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 83.361
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 86.21
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 85.625
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "VAN",
+    "lapTime": 86.912
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 84.351
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 83.897
+  },
+  {
+    "year": 2017,
+    "session": "R",
+    "driverId": "WEH",
+    "lapTime": 86.547
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.85
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 79.656
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "ERI",
+    "lapTime": 82.048
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 81.35
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 80.936
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 79.294
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "HAR",
+    "lapTime": 81.934
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 81.801
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 81.889
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 81.669
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 81.099
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 81.888
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 79.119
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 81.28
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 81.041
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "SIR",
+    "lapTime": 81.732
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 81.494
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "VAN",
+    "lapTime": 82.085
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 80.333
+  },
+  {
+    "year": 2018,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 79.28
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 85.229
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 82.907
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "ERI",
+    "lapTime": 84.767
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 84.059
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 82.497
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "HAR",
+    "lapTime": 87.009
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 84.772
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 83.768
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 83.768
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 84.243
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 84.179
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 83.515
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 85.692
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 83.529
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "SIR",
+    "lapTime": 84.58
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 84.056
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "VAN",
+    "lapTime": 84.504
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 83.609
+  },
+  {
+    "year": 2018,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 82.505
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "ALB",
+    "lapTime": 80.021
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 79.354
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 80.508
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "GIO",
+    "lapTime": 80.517
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 80.784
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 79.346
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 80.049
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 82.356
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "KVY",
+    "lapTime": 80.63
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 79.307
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 80.615
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "NOR",
+    "lapTime": 80.646
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 81.291
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 80.515
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 79.833
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "RUS",
+    "lapTime": 81.8
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 80.202
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 80.498
+  },
+  {
+    "year": 2019,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 79.457
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "ALB",
+    "lapTime": 83.364
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 82.859
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 83.885
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "GIO",
+    "lapTime": 84.503
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 84.985
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 81.779
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 83.641
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 84.989
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "KVY",
+    "lapTime": 85.772
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 83.009
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 84.443
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "NOR",
+    "lapTime": 84.044
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 83.77
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 84.419
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 83.466
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "RUS",
+    "lapTime": 84.842
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 85.637
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 84.165
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 83.143
+  },
+  {
+    "year": 2019,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 82.799
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "ALB",
+    "lapTime": 80.064
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 78.952
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 79.909
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "GIO",
+    "lapTime": 81.206
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "GRO",
+    "lapTime": 81.139
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 78.887
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "KVY",
+    "lapTime": 80.169
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "LAT",
+    "lapTime": 81.717
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 80.273
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 80.869
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "NOR",
+    "lapTime": 79.82
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 80.234
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 79.718
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "RAI",
+    "lapTime": 80.926
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 79.864
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "RUS",
+    "lapTime": 81.587
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 79.695
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 79.924
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 79.78
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 81.151
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "ALB",
+    "lapTime": 84.926
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 83.961
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 84.037
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "GIO",
+    "lapTime": 84.856
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "GRO",
+    "lapTime": 84.785
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 82.746
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "KVY",
+    "lapTime": 84.479
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "LAT",
+    "lapTime": 84.999
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 86.026
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 85.787
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "NOR",
+    "lapTime": 84.232
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 84.49
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 84.336
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "RAI",
+    "lapTime": 84.835
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 83.898
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "RUS",
+    "lapTime": 84.421
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 83.882
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 83.897
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 85.539
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 87.107
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.069
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 79.555
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 80.26
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "GIO",
+    "lapTime": 80.726
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 79.651
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "KUB",
+    "lapTime": 82.53
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "LAT",
+    "lapTime": 81.925
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 80.51
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "MAZ",
+    "lapTime": 82.716
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 82.248
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "NOR",
+    "lapTime": 79.989
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 81.103
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 80.611
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 79.995
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "RUS",
+    "lapTime": 81.392
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 80.462
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 81.02
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "TSU",
+    "lapTime": 81.973
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 79.966
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 80.913
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 85.472
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 84.827
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 89.005
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "GIO",
+    "lapTime": 85.718
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 85.87
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "KUB",
+    "lapTime": 85.849
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "LAT",
+    "lapTime": 85.953
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 85.319
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "MAZ",
+    "lapTime": 87.202
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 86.707
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "NOR",
+    "lapTime": 84.971
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 85.566
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 85.156
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 84.812
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "RUS",
+    "lapTime": 85.835
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 85.559
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 85.853
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 85.173
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 85.938
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.861
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 82.235
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "DEV",
+    "lapTime": 82.471
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 82.01
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 81.524
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "LAT",
+    "lapTime": 82.587
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 80.161
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 82.908
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "MSC",
+    "lapTime": 83.005
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "NOR",
+    "lapTime": 81.584
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 82.13
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 81.206
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 81.855
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "RUS",
+    "lapTime": 81.542
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 80.429
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 82.748
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "TSU",
+    "lapTime": 82.02
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 80.306
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "VET",
+    "lapTime": 82.636
+  },
+  {
+    "year": 2022,
+    "session": "Q",
+    "driverId": "ZHO",
+    "lapTime": 82.003
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 87.203
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 85.706
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "DEV",
+    "lapTime": 86.624
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 86.718
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 84.434
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "LAT",
+    "lapTime": 86.798
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 84.336
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 86.798
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "MSC",
+    "lapTime": 85.298
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "NOR",
+    "lapTime": 84.718
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 86.593
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 84.03
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 86.603
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "RUS",
+    "lapTime": 85.288
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 84.446
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 87.467
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "TSU",
+    "lapTime": 86.857
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 84.745
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "VET",
+    "lapTime": 87.501
+  },
+  {
+    "year": 2022,
+    "session": "R",
+    "driverId": "ZHO",
+    "lapTime": 86.361
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "ALB",
+    "lapTime": 80.76
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 81.417
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 81.94
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 82.545
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 80.82
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 81.776
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "LAW",
+    "lapTime": 81.758
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 80.361
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 82.592
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "NOR",
+    "lapTime": 80.979
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 82.548
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 80.688
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "PIA",
+    "lapTime": 80.785
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "RUS",
+    "lapTime": 80.671
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 80.294
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "SAR",
+    "lapTime": 81.93
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 82.86
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "TSU",
+    "lapTime": 81.594
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 80.307
+  },
+  {
+    "year": 2023,
+    "session": "Q",
+    "driverId": "ZHO",
+    "lapTime": 82.39
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "ALB",
+    "lapTime": 86.389
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 86.105
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 85.988
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 85.758
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 85.582
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 85.894
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "LAW",
+    "lapTime": 85.842
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 85.58
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 86.278
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "NOR",
+    "lapTime": 86.144
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 86.963
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 85.522
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "PIA",
+    "lapTime": 85.072
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "RUS",
+    "lapTime": 85.847
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 85.501
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "SAR",
+    "lapTime": 86.84
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 86.617
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 85.24
+  },
+  {
+    "year": 2023,
+    "session": "R",
+    "driverId": "ZHO",
+    "lapTime": 85.983
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "ALB",
+    "lapTime": 80.299
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "ALO",
+    "lapTime": 80.421
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "BOT",
+    "lapTime": 81.101
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "COL",
+    "lapTime": 81.061
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "GAS",
+    "lapTime": 80.738
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "HAM",
+    "lapTime": 79.513
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "HUL",
+    "lapTime": 80.339
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "LEC",
+    "lapTime": 79.461
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "MAG",
+    "lapTime": 80.698
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "NOR",
+    "lapTime": 79.327
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "OCO",
+    "lapTime": 80.764
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "PER",
+    "lapTime": 80.062
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "PIA",
+    "lapTime": 79.436
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "RIC",
+    "lapTime": 80.479
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "RUS",
+    "lapTime": 79.44
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "SAI",
+    "lapTime": 79.467
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "STR",
+    "lapTime": 81.013
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "TSU",
+    "lapTime": 80.945
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "VER",
+    "lapTime": 79.662
+  },
+  {
+    "year": 2024,
+    "session": "Q",
+    "driverId": "ZHO",
+    "lapTime": 81.445
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "ALB",
+    "lapTime": 83.918
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "ALO",
+    "lapTime": 82.944
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "BOT",
+    "lapTime": 83.609
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "COL",
+    "lapTime": 83.728
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "GAS",
+    "lapTime": 83.755
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "HAM",
+    "lapTime": 81.512
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "HUL",
+    "lapTime": 83.275
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "LEC",
+    "lapTime": 83.226
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "MAG",
+    "lapTime": 83.437
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "NOR",
+    "lapTime": 81.432
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "OCO",
+    "lapTime": 84.343
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "PER",
+    "lapTime": 82.971
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "PIA",
+    "lapTime": 81.943
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "RIC",
+    "lapTime": 84.219
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "RUS",
+    "lapTime": 82.036
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "SAI",
+    "lapTime": 83.219
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "STR",
+    "lapTime": 82.232
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "TSU",
+    "lapTime": 86.198
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "VER",
+    "lapTime": 81.745
+  },
+  {
+    "year": 2024,
+    "session": "R",
+    "driverId": "ZHO",
+    "lapTime": 85.092
+  }
+]

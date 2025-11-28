@@ -1,0 +1,242 @@
+[
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 78.201
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 77.209
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 77.09
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 78.364
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 77.18299999999999
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 76.46600000000001
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Racing Point",
+    "lapTime": 77.129
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 76.879
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Renault",
+    "lapTime": 77.481
+  },
+  {
+    "year": 2020,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 77.788
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 81.058
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 80.449
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 80.408
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 81.46
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 79.36
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 78.75
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Racing Point",
+    "lapTime": 80.802
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 79.854
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Renault",
+    "lapTime": 80.859
+  },
+  {
+    "year": 2020,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 80.882
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 79.21600000000001
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "AlphaTauri",
+    "lapTime": 79.05199999999999
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 78.586
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Aston Martin",
+    "lapTime": 78.97
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Ferrari",
+    "lapTime": 78.769
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 80.452
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "McLaren",
+    "lapTime": 78.481
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Mercedes",
+    "lapTime": 77.968
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Red Bull",
+    "lapTime": 78.65
+  },
+  {
+    "year": 2021,
+    "session": "Q",
+    "constructorName": "Williams",
+    "lapTime": 79.10900000000001
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Alfa Romeo",
+    "lapTime": 82.167
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "AlphaTauri",
+    "lapTime": 82.014
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Alpine F1 Team",
+    "lapTime": 81.032
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Aston Martin",
+    "lapTime": 81.97
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Ferrari",
+    "lapTime": 81.496
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Haas F1 Team",
+    "lapTime": 82.755
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "McLaren",
+    "lapTime": 81.696
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Mercedes",
+    "lapTime": 79.865
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Red Bull",
+    "lapTime": 79.849
+  },
+  {
+    "year": 2021,
+    "session": "R",
+    "constructorName": "Williams",
+    "lapTime": 82.654
+  }
+]
